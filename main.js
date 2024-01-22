@@ -15,5 +15,5 @@ switch (true) {
         }
         break;
     default:
-        console.log('not a number');
+        console.log('Помилка неприпустиме значення');
 }
