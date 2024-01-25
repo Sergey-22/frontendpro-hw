@@ -26,6 +26,6 @@ switch (true) {
         }
         break;
     default :
-      console.log('Ви ввели не число')
+      console.log('Ви ввели не число');
 }
 
