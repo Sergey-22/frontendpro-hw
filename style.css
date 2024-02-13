@@ -1,0 +1,18 @@
+.container {
+    margin: 0 auto;
+    max-width: 600px;
+    background-color: blueviolet;
+    padding: 20px;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    background-color: blanchedalmond;
+
+}
+
+td, th {
+    border: 1px solid black;
+    padding: 12px;
+    text-align: center;
+}
