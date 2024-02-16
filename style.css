@@ -1,0 +1,12 @@
+.container {
+    margin: 0 auto;
+    max-width: 1200px;
+    background-color: coral;
+    padding: 40px;
+}
+
+.img {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
