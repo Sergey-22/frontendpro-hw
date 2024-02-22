@@ -1,0 +1,28 @@
+.container {
+    margin: 0 auto;
+    max-width: 1200px;
+    background-color: coral;
+    height: 600px;
+    padding: 40px;
+}
+
+.content {
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.votes-bloc {
+    display: flex;
+    justify-content: center;
+
+}
+.smiley-bloc {
+    cursor: pointer;
+    user-select: none;
+}
+
+.smiley-bloc:hover {
+    transform: scale(1.2);
+}
